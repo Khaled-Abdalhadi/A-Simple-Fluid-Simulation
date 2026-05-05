@@ -1,16 +1,29 @@
-# React + Vite
+# A Simple SPH Fluid Solver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am very passionate about fluid mechanics and I wanted to try to implement a fluid solver on the web. However, most of the very realistic simulations have very hard math equations. I found a simple paper that has some algorithms that are simple to implement so I wanted to give it a try!
 
-Currently, two official plugins are available:
+The goal was to understand the core ideas behind Smoothed Particle Hydrodynamics (SPH) and get something interactive running in the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Tech Stack: 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  - React
+  - React Three Fiber
 
-## Expanding the ESLint configuration
+## Running the code
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the respiratory :
+
+   ```git clone https://github.com/Khaled-Abdalhadi/A-Simple-Fluid-Simulation.git```
+
+### 2. Install dev depndencies:
+
+    ```npm install```
+   
+3. run the application
+
+   ```npm run dev```
+
+References:
+
+  
