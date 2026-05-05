@@ -1,4 +1,4 @@
-# A Simple SPH Fluid Solver
+# A Simple SPH Fluid Simulation
 
 I am very passionate about fluid mechanics and I wanted to try to implement a fluid solver on the web. However, most of the very realistic simulations have very hard math equations. I found a simple paper that has some algorithms that are simple to implement so I wanted to give it a try!
 
