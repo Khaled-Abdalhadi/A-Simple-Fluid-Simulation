@@ -18,6 +18,7 @@
   font: 18px/145% var(--sans);
   letter-spacing: 0.18px;
   color-scheme: light dark;
+  padding: 50px;
   color: var(--text);
   background: var(--bg);
   font-synthesis: none;
@@ -47,6 +48,10 @@
 
   #social .button-icon {
     filter: invert(1) brightness(2);
+  }
+
+  .canvas {
+    border: 1px solid white;
   }
 }
 
@@ -113,5 +118,5 @@ code {
 .canvas {
   max-width: 600px;
   aspect-ratio: 1;
-  border: 1px solid white;
+  border: 1px solid;
 }

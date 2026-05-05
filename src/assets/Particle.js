@@ -8,7 +8,7 @@ class Particle {
       this.position = position;
       this.prevPosition = position.clone();
       this.velocity = new Vector2(); 
-      this.GRAVITY = new Vector2(0, -0.1);
+      this.GRAVITY = new Vector2(0, -0.8);
       this.VELOCITY_DAMPING = 0.99;
       this.color = "#5786F5";
 
