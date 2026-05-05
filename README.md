@@ -12,18 +12,18 @@ The goal was to understand the core ideas behind Smoothed Particle Hydrodynamics
 
 ## Running the code
 
-### 1. Clone the respiratory :
+  ### 1. Clone the respiratory:
 
    ```git clone https://github.com/Khaled-Abdalhadi/A-Simple-Fluid-Simulation.git```
 
-### 2. Install dev depndencies:
+  ### 2. Install dev depndencies:
 
     ```npm install```
    
-3. run the application
+  ### 3. Run the application
 
    ```npm run dev```
 
-References:
+## References:
 
   
