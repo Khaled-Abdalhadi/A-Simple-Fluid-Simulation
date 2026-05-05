@@ -32,4 +32,6 @@ The goal was to understand the core ideas behind Smoothed Particle Hydrodynamics
 
 ## References:
 
+  [Fluid Simulation Paper](https://www.ljll.fr/~frey/papers/levelsets/Clavet%20S.,%20Particle-based%20viscoelastic%20fluid%20simulation.pdf)
+
   
