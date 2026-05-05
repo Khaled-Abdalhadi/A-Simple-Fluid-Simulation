@@ -20,10 +20,10 @@ The goal was to understand the core ideas behind Smoothed Particle Hydrodynamics
 
   ### 2. Install dev depndencies:
 
-    ```
+  ```
     npm install
-    ```
-   
+  ```
+    
   ### 3. Run the application
 
    ```
