@@ -1,0 +1,8 @@
+.canvas {
+    width: 300;
+    height: 300;
+    border: '1px solid white';
+    display: flex;
+    justify-content: center;
+  }
+  
